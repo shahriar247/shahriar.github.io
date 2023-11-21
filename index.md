@@ -25,12 +25,3 @@
 ### Exploring the Ongoing Effects of Climate Change in Everglades National Park, Florida, United States (Ongoing)
 
 - [Sample Presentation](https://docs.google.com/presentation/d/1ikLv9IvVCQYkAdSH7VRjPk7xo60eF9Xc/edit?usp=sharing&ouid=108087491039222147480&rtpof=true&sd=true)
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
